@@ -1,5 +1,5 @@
 whisperx
 torch
 ffmpeg-python
-flask
+Flask
 gunicorn
